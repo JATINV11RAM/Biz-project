@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-04-07T06:11:56.139Z",
+  "automated": [
+    "environment",
+    "npm_install",
+    "dev_server"
+  ],
+  "manual": [
+    "database_setup",
+    "email_auth"
+  ],
+  "status": "awaiting_manual_setup"
+}
