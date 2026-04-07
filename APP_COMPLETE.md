@@ -316,16 +316,16 @@ biz-saathi/
 
 ```env
 # AI Provider
-GEMINI_API_KEY=AIzaSyBkwvrdZg0XqrQM6ThDCeyc3g2xsb-jlcE
+GEMINI_API_KEY=your_gemini_api_key_here
 
 # Database
-SUPABASE_URL=https://vzeblwnzyaatotxvlouy.supabase.co
-SUPABASE_ANON_KEY=sb_publishable_1tuE4wjbhbMJpKX9-j4rNg_PR1hLg3i
-SUPABASE_SERVICE_ROLE_KEY=sb_secret_OKgYbDeCeJ9hGJtVKgojmw_yIsChlfH
+SUPABASE_URL=your_supabase_url_here
+SUPABASE_ANON_KEY=your_supabase_anon_key_here
+SUPABASE_SERVICE_ROLE_KEY=your_supabase_service_role_key_here
 
 # Rate Limiting
-UPSTASH_REDIS_REST_URL=https://suited-chamois-93950.upstash.io
-UPSTASH_REDIS_REST_TOKEN=gQAAAAAAAW7-AAIncDE5NDFjNzk4YzU2OWI0YzhmYmVjMmQwNjQ3NWY3NTE2N3AxOTM5NTA
+UPSTASH_REDIS_REST_URL=your_upstash_redis_url_here
+UPSTASH_REDIS_REST_TOKEN=your_upstash_redis_token_here
 
 # Scheduled Jobs
 CRON_SECRET=NTQ2NjU4NTgx

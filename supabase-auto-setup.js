@@ -11,8 +11,8 @@ const path = require('path');
 
 // Load environment
 const envFile = fs.readFileSync(path.join(__dirname, '.env.local'), 'utf8');
-const SUPABASE_URL = 'https://vzeblwnzyaatotxvlouy.supabase.co';
-const SERVICE_ROLE_KEY = 'sb_secret_OKgYbDeCeJ9hGJtVKgojmw_yIsChlfH';
+const SUPABASE_URL = 'YOUR_SUPABASE_URL_FROM_ENV';
+const SERVICE_ROLE_KEY = 'YOUR_SERVICE_ROLE_KEY_FROM_ENV';
 
 console.log('🔄 Supabase Auto-Setup Attempt\n');
 
